@@ -4,7 +4,7 @@ const request = require('request');
 const mongoose = require("mongoose");
 const app = express();
 const _ = require("lodash")
-const PORT = process.env.PORT || 3000;
+const PORT = process.env.PORT||3000;
 
 mongoose.connect("mongodb+srv://admin-chukwuma:30465557@cluster0.h8lwvex.mongodb.net/todolistDB")
 const itemsSchema = new mongoose.Schema({
