@@ -24,7 +24,7 @@ EJS
 Installation
 
 Clone the repository:
-git clone https://github.com/your-username/todolist.git
+git clone https://github.com/chuksInTech/todolist.git
 cd todolist
 
 Install dependencies:
