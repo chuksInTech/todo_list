@@ -1,0 +1,1 @@
+A dynamic to-do list web application built with Node.js, Express, EJS, and MongoDB using Mongoose for data modeling. This app allows users to create, view, and delete to-do items, including support for custom list routes.
